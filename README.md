@@ -2,7 +2,7 @@ I share my real time proeject (Figma design).
 
 Link: https://www.figma.com/design/WIVgMwEvvkiatsgUmCRk8O/J-K-Cabinetry?node-id=4-9053&t=WZXIIkAG7ssCzKBm-1
 
-Describtion:
+Description:
 
 Project: J-K Cabinetry App / UI Prototype
 
